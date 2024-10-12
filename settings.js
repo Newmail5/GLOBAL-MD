@@ -9,9 +9,9 @@ global.socialm = "GitHub: නැ 👉👈" //ur github or insta name
 global.location = "දකුණෙ මාතර ✌️💖" //ur location
 
 //new
-global.botname = '🐼-𝐌𝐃' //ur bot name
-global.ownernumber = ['94782543893'] //ur owner number, dont add more than one
-global.ownername = '🐼-𝐌𝐃' //ur owner name
+global.botname = 'GLOBAL 💀-𝐌𝐃' //ur bot name
+global.ownernumber = ['2349039996138'] //ur owner number, dont add more than one
+global.ownername = 'EVERGREEN' //ur owner name
 global.websitex = "https://wa.me/qr/P6WADRJOKAFUK1"
 global.wagc = "https://wa.me/qr/P6WADRJOKAFUK1"
 global.themeemoji = '🪀'
@@ -19,9 +19,9 @@ global.wm = "Hashan Bot Inc."
 global.botscript = 'https://wa.me/qr/P6WADRJOKAFUK1' //script link
 global.packname = "Sticker By"
 global.author = "🐼-𝐌𝐃\n\n+94782543893"
-global.creator = "94782543893@s.whatsapp.net"
+global.creator = "2349039996138@s.whatsapp.net"
 global.xprefix = '.',''
-global.premium = ["94782543893"] // Premium User
+global.premium = ["2349039996138"] // Premium User
 
 //channel id
 global.xchannel = {
